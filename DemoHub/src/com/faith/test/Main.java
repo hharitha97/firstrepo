@@ -12,7 +12,8 @@ public class Main {
 	}
 	
 	private static void displayGreetings(){
-		System.out.println("welcome to sales Report App vvv2019..");
+		System.out.println("welcome to sales Report App 2019..");
+		System.out.println("hello");
 	}
 
 }
