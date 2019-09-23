@@ -6,13 +6,13 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		SalesData objSalesData=new SalesData();
-		System.out.println("Hello UST Guys! Git Repo");
+		System.out.println("Hello UST Guys! Git Repository");
 		displayGreetings();
 		objSalesData.display();
 	}
 	
 	private static void displayGreetings(){
-		System.out.println("welcome to sales Report App 2019..");
+		System.out.println("welcome to sales Report App v2019..");
 	}
 
 }
